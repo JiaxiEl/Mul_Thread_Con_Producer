@@ -2,7 +2,7 @@
 Finsihed in 03/2020. Uploaded 2021
 
 # Mul_Thread_Con_Producer
-Simulate Candy Factory. Simulate this multiple producer and multiple consumer problem
+Simulate Candy Factory and this multiple producer and multiple consumer problem
 
 # Candy Type
 crunchy frog bites and everlasting escargot suckers
